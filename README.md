@@ -1,7 +1,7 @@
 # Automated-Information-Gathering
 Python program to gather information of a network connection.
 
-rum python-nmap on terminal and run these commands :
+run python-nmap on terminal and run these commands :
 
 import nmap
 nm_scan = nmap.PortScanner()
