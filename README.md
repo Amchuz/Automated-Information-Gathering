@@ -7,5 +7,5 @@ import nmap
 nm_scan = nmap.PortScanner()
 nm_scanner = nm_scan.scan(sys.argv[1],'80',arguments='-O') #O is just a guess.
 
-look at the info and add variables in the program accordingly.
+Look at the info and add variables in the program accordingly.
 run script as : python automatedpython.py <ipaddress>
